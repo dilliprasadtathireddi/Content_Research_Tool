@@ -7,6 +7,7 @@ How it works:
 •Add article URLs: Paste the URLs of the research articles you want to explore in the sidebar (up to 2 articles for now!)
 
 •Process URLs: Click the button to process the articles. This involves:
+<img width="1470" alt="Screenshot 2024-03-26 at 2 35 54 PM" src="https://github.com/dilliprasadtathireddi/Content_Research_Tool/assets/129867063/184ef5e1-bb76-4e3b-95ae-e255bab46acf">
 
 •Downloading the articles
 •Splitting the text into smaller chunks for analysis ✂️
